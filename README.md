@@ -15,4 +15,4 @@ This is an unofficial orchestration of curating all unofficial docsets in an eff
 
 ## We <3 Dash
 
-This isn't an attack on Dash by any means. We support and love dash! We are power-users that love when our documentation is fresh and hate when we have to fall back to the browser.
+This isn't an attack on Dash by any means. We support and love Dash! We are power-users that love when our documentation is fresh and hate when we have to fall back to the browser.
