@@ -1,13 +1,18 @@
-# Doc Requests
+# Dash Docs Community
 
-Kapeli supports a lot of documentation sets, but not all. That's ok. There's only so much one person can do. All the unofficial ones are scattered around Github and may not be kept up to date. That's ok, too!
+Welcome!
 
-This is an unofficial orchestration of curating all the unofficial docsets in an effort to help keep things up to date.
+Kapi supports a lot of documentation sets, but not all of them. That's ok! There's only so much one person can do. Unofficial docsets are typically maintained by one individual and may not be up to date. That's ok too!
 
-Open an issue if:
+This is an unofficial orchestration of curating all unofficial docsets in an effort to stay up to date.
 
-- you're currently a maintainer of a docset feel free to open up an issue and I'll make you an owner so you can transfer it over. 
+## Open an issue if:
+
+- you currently maintain a docset and would rather become an owner here and have the community help maintain it instead
 - there's a docset you're struggling to create on your own
-- you don't have time to create a docset but really really really wish there was one!
-- you want to help but aren't sure how to generate docsets
-- you have an idea for generating docsets on the fly when these public repos are updated!
+- you want to help but you aren't sure how yet
+- you have an idea for generating docsets on the fly
+
+## We <3 Dash
+
+This isn't an attack on Dash by any means. We support and love dash! We are power-users that love when our documentation is fresh and hate when we have to fall back to the browser.
