@@ -2,9 +2,9 @@
 
 Welcome!
 
-Kapi supports a lot of documentation sets, but not all of them. That's ok! There's only so much one person can do. Unofficial docsets are typically maintained by one individual and may not be up to date. That's ok too!
+Kapeli supports a lot of documentation sets, but not all of them. That's ok! There's only so much one person can do. Unofficial docsets are typically maintained by one individual and may not be up to date. That's ok too!
 
-This is an unofficial orchestration of curating all unofficial docsets in an effort to stay up to date.
+This is an unofficial orchestration curating all unofficial docsets in an effort to stay up to date.
 
 ## Open an issue if:
 
